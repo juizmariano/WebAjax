@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCPruebaAJAX", "MVCPrueba\MVCPruebaAJAX.csproj", "{D1E2C066-8C26-40E1-8003-EEF9E26F8F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E2C066-8C26-40E1-8003-EEF9E26F8F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E2C066-8C26-40E1-8003-EEF9E26F8F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E2C066-8C26-40E1-8003-EEF9E26F8F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E2C066-8C26-40E1-8003-EEF9E26F8F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4BD884-A743-4AD4-9B15-E28C9DD2B7AB}
+	EndGlobalSection
+EndGlobal
